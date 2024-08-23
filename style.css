@@ -37,7 +37,7 @@
 }
 
 .nossa-escola {
-    color: blue;
+    color: white;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -70,7 +70,7 @@
 
 .equipe {
     background-color: #cd5f05db;
-    color: white;
+    color: black;
 }
 
 .professor{
