@@ -73,12 +73,13 @@ body {
     padding: 24px 0;
 }
 
-.nossa-escola-texto2 {
-    font-size: 26px;
-    padding: 24px 10px 24px 10px;
+.topicos {
+    padding: 100px;
 }
 
 .rodapé{
+    padding-top: 50px;
+    height: 200px;
     background-color: #0b2799;
     color: #ffffff;
     font-size: 20px;
@@ -93,5 +94,5 @@ body {
 }
 
 .rodapé-ícone{
-    width: 3000px;
+    width: 100%;
 }
